@@ -1,6 +1,6 @@
 # 🖊️ Arduino CNC Pen Plotter — Python Tkinter Controller
 
-> A full-featured desktop controller for a 2-axis stepper motor pen plotter with servo-controlled pen lift. Built with Python + Tkinter on the PC side and Arduino on the hardware side. Supports manual jogging, calibration, built-in shapes, demo programs, and a fully custom JSON drawing API.
+> A full-featured desktop controller for a 2-axis stepper motor pen plotter with servo-controlled pen lift. Built with Python + Tkinter for the control software and stepper motors, servo motor, Arduino lilypad, L293D motor driver on the hardware side. Supports manual movement, calibration, built-in shapes, demo programs, and a fully custom JSON drawing API.
 
 ---
 
